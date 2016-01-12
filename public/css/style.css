@@ -1,1 +1,5 @@
 body { padding-top:30px; }
+.myGrid {
+  width: 500px;
+  height: 250px;
+}

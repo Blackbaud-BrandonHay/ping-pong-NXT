@@ -1,9 +1,12 @@
 {
-	"name": "angular",
-	"version": "1.0.0",
-	"dependencies": {
-		"bootstrap": "latest",
-		"angular": "latest",
-		"angular-route": "latest"	
-	}
+  "name": "angular",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "latest",
+    "angular": "latest",
+    "angular-route": "latest"	,
+    "angular-ui-grid": "~3.0.0-rc.20",
+    "angular-ui-select": "0.12.1",
+    "bb-sky": "https://github.com/blackbaud/skyux.git#1.4.1"
+  }
 }
